@@ -169,7 +169,7 @@
                 { "trait_type": "是否有人", "value": "有" }
               ],
               "markets": {
-                "marketCap": 954.12,
+                "marketCap": 654.75,
                 "change24h": 12.34,
                 "change7d": 5.67,
                 "floorPrice": 1.8,
@@ -687,7 +687,7 @@
                 { "trait_type": "流體類型", "value": "潑漆" }
               ],
               "markets": {
-                "marketCap": 952.4,
+                "marketCap": 657.89,
                 "change24h": 3.12,
                 "change7d": 15.45,
                 "floorPrice": 1.95,
@@ -759,7 +759,7 @@
                 { "trait_type": "流體類型", "value": "線條" }
               ],
               "markets": {
-                "marketCap": 890.5,
+                "marketCap": 356.45,
                 "change24h": 0.85,
                 "change7d": 11.2,
                 "floorPrice": 1.8,
@@ -1062,7 +1062,7 @@
                 { "trait_type": "是否有葉子", "value": "是" }
               ],
               "markets": {
-                "marketCap": 915.3,
+                "marketCap": 754.65,
                 "change24h": 4.75,
                 "change7d": 12.6,
                 "floorPrice": 2.1,
