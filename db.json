@@ -145,7 +145,7 @@
                 { "trait_type": "是否有人", "value": "有" }
               ],
               "markets": {
-                "marketCap": 446.53,
+                "marketCap": 346.53,
                 "change24h": -4.15,
                 "change7d": 14.82,
                 "floorPrice": 2.1,
@@ -1118,7 +1118,7 @@
                 { "trait_type": "流體類型", "value": "水流" }
               ],
               "markets": {
-                "marketCap": 202.31,
+                "marketCap": 502.31,
                 "change24h": 13.49,
                 "change7d": 50.23,
                 "floorPrice": 2.9,
